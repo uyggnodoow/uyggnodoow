@@ -1,3 +1,6 @@
+[![Hits](https://komarev.com/ghpvc/?username=uyggnodoow&color=red&label=Hits)](https://github.com/uyggnodoow)
+
+
 ### Hi there 👋
 
 <!--
